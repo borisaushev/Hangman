@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/f57a5991-875d-4141-98ef-35745916324a)
+![image](https://github.com/user-attachments/assets/218213f6-e416-49ab-a2a3-4d013f181e0d)
+![image](https://github.com/user-attachments/assets/c8bfe24b-14ed-45cf-8ba2-2ef3533555b2)
+
 # Шаблон Java-проекта для домашних заданий
 
 Шаблон для домашних заданий [Академии Бэкенда 2024][course-url].
